@@ -4,6 +4,8 @@
 }
 .H1{
     padding-top: 40px;
+    float:left;
+
 }
 *{
     margin: 0;
